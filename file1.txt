@@ -3,3 +3,6 @@
 456
 
 789.
+
+varchar string text="don't mess with Wendy Testabuger"
+Add Line
